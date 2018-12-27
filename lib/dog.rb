@@ -4,6 +4,7 @@ class Dog
     @breed = breed
     if @breed = ""
       @breed
+    end  
   end
 
 end  
