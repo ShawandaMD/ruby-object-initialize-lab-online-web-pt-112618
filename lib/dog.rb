@@ -7,7 +7,6 @@ class Dog
       @breed
   
     end
-    binding.pry  
   end
   binding.pry  
 end  
