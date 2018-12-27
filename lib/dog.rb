@@ -3,5 +3,13 @@ class Dog
   
   end
   
+  def 
+    
+  end 
+  
+  def 
+    
+  end  
+  
   
 end  
