@@ -8,7 +8,7 @@ class Dog
       breed
      
     end  
-  binding.pry
+  #binding.pry
   end
-
+ binding.pry
 end  
