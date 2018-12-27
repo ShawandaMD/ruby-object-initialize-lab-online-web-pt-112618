@@ -4,10 +4,11 @@ class Dog
     @name = name
     @breed = breed
     if breed = ""
- binding.pry
+
       breed
      
     end  
+  binding.pry
   end
 
 end  
